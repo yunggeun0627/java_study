@@ -13,7 +13,7 @@ public class AcademyStudent extends Student {
 
     @Override
     public String toString() {
-        return "AcademyStduent{" +
+        return "AcademyStudent{" +
                 "academyname=" + academyname +
                 "} " + super.toString();
     }
